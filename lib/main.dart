@@ -8,15 +8,17 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Riverpod Practice',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Home Page'),
-        ),
-        body: const Center(
-          child: Text('Hello'),
+      title: 'Counter App',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.green,
+          brightness: Brightness.dark,
+          surface: const Color(
+            0xff003909,
+          ),
         ),
       ),
+      home: Container(),
     );
   }
 }
