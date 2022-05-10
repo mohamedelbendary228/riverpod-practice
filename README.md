@@ -1,16 +1,10 @@
-# riverpod_practice
+# Simple Counter Expample using Riverpod
 
-A new Flutter project.
+I made this expample to show how to use **Riverpod** and it's Providers 
 
-## Getting Started
+### A few resources to get you started with riverpod:
 
-This project is a starting point for a Flutter application.
+- [Riverpod offical documentation](https://riverpod.dev/docs/getting_started/)
+- [Learn Riverpod](https://resocoder.com/2022/04/22/riverpod-2-0-complete-guide-flutter-tutorial/)
+- [Flutter State Management with Riverpod: The Essential Guide](https://www.youtube.com/watch?v=J2iFYZUabVM&t=1044s)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
